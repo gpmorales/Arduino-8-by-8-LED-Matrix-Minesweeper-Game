@@ -38,7 +38,8 @@ An interactive Minesweeper-inspired game implemented on an 8x8 LED matrix using 
 * Customizable display timing
 * Modifiable game patterns
 
+![](./GameBoard.PNG)
+
+
 ---
 © 2025 George Morales - Arduino LED Matrix Minesweeper
-
-![](./GameBoard.PNG)
